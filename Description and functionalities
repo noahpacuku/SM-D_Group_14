@@ -1,25 +1,27 @@
 Description:
 A music store which sells instruments, cd's, vinyls, record players and accessories of all kinds in regards to music.
-Offers services online and in-store
-The website would be used in two front: both from the customer point of viw (where they can buy things from the comfort of their home)
-and from the employees point of view (where they can check the stock, see the calendar of events, check with suppliers eccetera)
+Offers services online and in-store.
+The website would be used in two front: both from the customer point of view (where they can buy things from the
+comfort of their home)and from the employees point of view (where they can check the stock, see the calendar of 
+events, check with suppliers eccetera)
 
 
 Functionalities:
  
-On the employers side:
-Checking stock
-checking sales
-confirming custom orders
-confirming online orders
-instrument maintenance and technical service
+On the employees side:
+-Checking stock
+-Checking sales
+-Confirming custom orders
+-Confirming online orders
+-Instrument maintenance and technical service
 
 On the customer side of the website:
-making orders online
-making customaziation requests
-accessing costumer service 
-booking lessons to a third-party company
+-Making orders online
+-Making customaziation requests
+-Accessing costumer service 
+-Booking lessons to a third-party company
 
-organizing giveways of shop items
-organizing meet and greets with known musicians
-organizing concerts with known musicians
+On both sides (customer and employee):
+-Organizing giveways of shop items
+-Organizing meet and greets with known musicians
+-Organizing concerts with known musicians
