@@ -42,6 +42,42 @@ Admins:
 
 Chapter 2.3 - Assumptions:
 
+• Cost Category:
+   - The cost spent for the purchase and maintenance of the resources will stay within the planned budget by the project manager. 
+   - Salary costs for those working on the project will be within the expected assumption.
+   - Wages of any subcontractors and indirect costs such as space rental, utilities, and office supplies will stay within the expected budget.
+   - The total cost of daily operations will remain unchanged. 
+   - The total budget of the project will not exceed and can cover back the capital used. 
+
+• Technology Category:
+  - If techninal errors arise, the IT support team is able to provide a solution. 
+  - The system of the project is compatible, functions properly, and is stable for the project to take place smoothly.
+  - Technical project managers are able to  communicate efficiently to lead teams, explain goals and responsibilities and discuss business strategies.
+  - The chosen programming languages are appropriate for the task at hand.
+  - The chosen database technology is appropriate for the scale and complexity of the data being managed.
+  - The project assumes that the chosen security measures, such as firewalls and encryption, will be effective in protecting the software from 
+    cyber attacks.
+
+• Human Category:
+  - The staff is proficient with the English language
+  - The clients have a basic knowledge of smart devices
+  - Team members can communicate effectively with each other and with stakeholders to ensure that expectations are aligned.
+  - Customers will be satisfied with the final product and will continue to use it over time.
+  - Managers will provide clear direction and guidance to team members, and will support them when issues or challenges arise.
+
+
+• Process Category:
+  - The methodology used is effective.
+  - The staff has the necessary skills and knowledge to efficently follow the methodology
+  - The project plan is well-defined and includes all the necessary tasks and milestones required to complete the project.
+  - The project team will be able to handle changes in scope or requirements effectively and adjust the project plan accordingly.
+
+
+• Legal Category: 
+  - Any intellectual property used in the project is properly licensed or owned by the project team and does not infringe on the rights of others.
+  - Any contracts or agreements related to the project are legally binding and enforceable.
+  - The project team has obtained any necessary permits or licenses required to complete the project.
+
 
 Chapter 2.4 - Constraints:
 
