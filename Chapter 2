@@ -39,3 +39,26 @@ Admins:
 •	Manages the database
 •	Is in charge of marketing
 •	Orders personalisation’s via third parties
+
+Chapter 2.3 - Assumptions:
+
+
+Chapter 2.4 - Constraints:
+
+•	Every client, shopkeeper, technician, musician, administrator must sign up and log in with their personal usernames and passwords.
+•	Basic internet connection is required for logging in and dealing with different events.
+•	Electric energy must be constantly flowing at a high voltage in the shop as most of the instruments and systems cannot operate without it. In case of power outage private generators must be active at any time.
+•	The system, due to its wide variety of attributes and usability must have a weekly maintenance check to ensure the proper processing of orders, events and income statements.
+
+Chapter 2.5 - Dependencies:
+
+•	A customer must be logged in to set up online or custom orders, meets and greets with different musicians, sign up in giveaways or set an appointment with the technicians.
+•	Musicians must be logged in to see their participation timetable in different events and meet and greets.
+•	Technicians need to be logged in to see their personal agendas and appointments with specific clients.
+•	Administrators can handle all shopkeepers, technicians and different events happening in their shop, including setting up giveaways, meetings with the musicians or concerts in the shop.
+•	Administrators can keep track of shopkeepers and technicians’ general information, sales, activities, profits, but technicians and shopkeepers cannot keep track of administrators’ information.
+•	Meet and greets cannot happen if the musicians are not available at that specific day/time.
+•	Orders cannot happen if the specific item intended to order is out of stock/is not supported by the shop.
+•	The client cannot set up a tech appointment if the technician is not available at that specific day/time.
+•	Stock can be checked by shopkeepers, but only the administrator can restock the needed items.
+•	Custom orders process cannot go any further if the customer has not made the pre-order payment. 
