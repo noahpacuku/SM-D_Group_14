@@ -1,1 +1,48 @@
 Software Design
+
+4.1 - User Scenarios
+
+US7: Entering Giveaways
+1.	Client will be presented with the product/s in giveaway as soon as entering the site.
+2.	Client can see the details on the giveaway such as the timeframe of applying and end-date.
+3.	If not already, client needs to go through the process of signing up with his/her personal information to then be able to enter the giveaway.
+4.	Client needs to click “Enter giveaway”.
+5.	Client needs to fulfill all listed requirements before officially being part of the giveaway.
+6.	Client clicks “Complete”.
+
+US8: Making Custom Orders
+1.	Client will be presented with “custom orders” page when entering the site.
+2.	The page will display all brands the shop has partnership with and that offer the custom order option.
+3.	When interacting with a brand, it will show all available options for personalization.
+4.	Client can select different options for the selected base instrument such as material (wood types, plastic, carbon fiber), color, string types (guitar, piano, violin, cello), pickups(guitars), tiles(pianos) and so on, where each special part is added to the overall price of the instrument.
+5.	Upon finishing the custom order, if the client is not logged in already, they are obliged to so the order can be completed.
+6.	The item is added to cart and the client can continue with the check-out process.
+
+US9: Setting up appointments
+1.	Client will be presented with “Technical Support” page as soon as entering the site.
+2.	The page will display alternatives of technical support depending on your instrument (guitar tech-guy will not be the same as the piano or drum tech-guy) or sound system.
+3.	 Upon selecting the specific tech-support, their calendar of appointments will be shown, displaying the hours/days they are free to set up an appointment or are busy with other customers.
+4.	The customer can select an hour/day for an appointment and click “Confirm Appointment” to finalize it.
+5.	If the client is not logged in already, they need to log in before the appointment is finalized.
+6.	Client needs to provide their personal client details in the site to the tech-support upon meeting them so the service can proceed.
+7.	Upon the instruments fixing/upgrade, a notification is sent to the client via their contact information, along with the bill that can be paid immediately at the shop upon instrument pickup or via the customer account online.
+
+US10: Contacting customer service
+1.	Client will be presented with “Customer Service” page as soon as entering the site.
+2.	Upon entering the page, a wide variety of issues that customers usually have will be displayed to the client.
+3.	Client must be logged in if the concern is regarding one of their orders, personalizations, participations in events or giveaways and other issues with personal client information.
+4.	When clicking one of these issues, depending on their complexity, the links can either redirect the client to an automated AI with the answers or to workers of the shop (having a hard time logging in can be supported by an AI that walks the client through the process rather than consuming the time of the worker that might deal with something much more complex).
+5.	Client can state their own issues not displayed in the general tab via the option “Other”.
+6.	In cases of contacting the workers, clients can either wait for their response online in the site or be notified via their contact information provided from their account.
+
+US11: Leaving a review
+1.	Client needs to be logged in to leave a review.
+2.	The option “leave a review” will appear after purchasing a product, receiving customer service, attending an event, or receiving technical support. 
+3.	After clicking the option, the client can leave a “star-rating” and write their review on the item, service or event including a header and their detailed message.
+4.	Reviews will be public to all other customers and staff and will be taken under consideration for a better experience.
+5.	Foul or offensive comments in reviews will immediately take the entire review down and the customer dealt with depending on the scale of issue.
+
+4.2 - Use Cases
+Use case diagram: client not signed in
+
+
